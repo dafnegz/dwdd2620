@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 80 40">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        stroke-width: .5px;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st3 {
+        fill: #fff;
+      }
+
+      .st4 {
+        fill: #231f20;
+        font-family: Broadway, Broadway;
+        font-size: 12px;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        stroke-width: 1.08px;
+      }
+    </style>
+  </defs>
+  <line class="st2" x1="10.97" y1="14.36" x2="13.83" y2="14.78"/>
+  <path class="st0" d="M12.83,14.96c-.34,1.41-2.58,2-4.15,1.75-1.13-.18-1.87-.78-2.3-1.13-1.74-1.43-2.55-3.73-2.05-4.16.18-.16.49.24,1.61.42.39.06.73.12,1.17.05.62-.09.73-.31,1.38-.43.5-.09.91-.03,1.13,0,.21.03,1,.16,1.74.7.67.49,1.76,1.67,1.49,2.79Z"/>
+  <path class="st1" d="M15.32,18.16h-1.49c.17-5.28.47-9.14.75-9.13.28,0,.58,3.86.74,9.13Z"/>
+  <path class="st1" d="M6.5,20.97l2.62,11.62h11.3c.74-3.87,1.49-7.74,2.23-11.62H6.5Z"/>
+  <line class="st3"/>
+  <rect class="st0" x="3.79" y="17.41" width="21.57" height="4.21" rx="2.02" ry="2.02"/>
+  <line class="st2" x1="18.22" y1="13.03" x2="15.36" y2="13.46"/>
+  <path class="st0" d="M16.53,13.19c.51,1.36,2.81,1.66,4.34,1.21,1.09-.32,1.76-1,2.14-1.41,1.54-1.63,2.06-4.03,1.52-4.38-.2-.13-.46.3-1.54.62-.38.11-.71.21-1.15.2-.62-.01-.77-.22-1.42-.25-.51-.02-.9.08-1.12.14-.2.06-.97.29-1.63.91-.6.57-1.54,1.87-1.13,2.96Z"/>
+  <text class="st4" transform="translate(30.19 18.41)"><tspan x="0" y="0">Plants </tspan><tspan x="0" y="14">&amp; More</tspan></text>
+</svg>

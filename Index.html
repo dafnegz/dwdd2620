@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body>
+    <div class="max-w-6xl mx-auto">
+        <header class="grid grid-cols-[auto_44px_44px] gap-2 p-2 border-b border-neutral-600">
+            <img src="images/logo.svg" alt="A black and white potted plant logo." width="170" height="50">
+            <a class="border w-11 h-11 flex justify-around rounded-full hover:bg-slate-100" href="#"><img class="w-4"
+                    src="images/person.svg" alt="A circle with a person icon in the center."></a>
+            <a class="border w-11 h-11 flex justify-around rounded-full hover:bg-slate-100" href="#"><img class="w-4"
+                    src="images/cart3.svg" alt="A circle with a shopping cart icon in the center."></a>
+        </header>
+
+        <nav class="bg-green-100">
+            <ul class="flex flex-col sm:flex-row sm:border-b border-neutral-600">
+                <li class="text-red-950 border-b border-neutral-600 sm:border-b-0">
+                    <a href="#" class="block py-2 px-3 hover:bg-green-500">Plants</a>
+                </li>
+
+                <li class="text-green-800 border-b border-neutral-600 sm:border-b-0">
+                    <a href="#" class="block py-2 px-3 hover:bg-green-500">Soils</a>
+                </li>
+
+                <li class="text-green-800 border-b border-neutral-600 sm:border-b-0">
+                    <a href="#" class="block py-2 px-3 hover:bg-green-500">Pots</a>
+                </li>
+
+                <li class="text-green-800 border-b border-neutral-600 sm:border-b-0">
+                    <a href="#" class="block py-2 px-3 hover:bg-green-500">Fertilizers</a>
+                </li>
+            </ul>
+        </nav>
+
+        <main>
+            <h1 class="text-red-950 text-2xl px-2 py-3">Plants</h1>
+            <div class="md:flex ">
+                <section class="md:w-1/2">
+                    <img class="" src="images/pothos.webp" alt="A long green pothos plant in a hanging pot.">
+                </section>
+
+                <section class="m-2 md:w-1/2">
+                    <h2 class="text-red-950 text-xs font-bold uppercase border-b-2 border-gray-100 mt-6 md:mt-0">Title:
+                    </h2>
+                    <p class="">Pothos Plant</p>
+                    <h2 class="text-red-950 text-xs font-bold uppercase borsder-b-2 border-gray-100 mt-6">Description:
+                    </h2>
+                    <p class=""> Pothos plants have glossy heart shaped leaves that can be veriegated. It's vines are
+                        ideal for hanging baskets due to their trailing nature. Pothos plants are a beginner friendly
+                        plant, they prefer bright indirect light but can also be placed in low-light areas, water when
+                        the soil is dry.</p>
+                    <h2 class="text-red-950 text-xs font-bold uppercase border-b-2 border-gray-100 mt-6">Cutting Size:
+                    </h2>
+                    <button class="bg-green-700 hover:bg-green-600 text-white foot-medium py-2 px-3 m-2 rounded">Small
+                        (3")</button>
+                    <button class="bg-green-700 hover:bg-green-600 text-white foot-medium py-2 px-3 m-2 rounded">Medium
+                        (6")</button>
+                    <button class="bg-green-700 hover:bg-green-600 text-white foot-medium py-2 px-3 m-2 rounded">Large
+                        (12")</button>
+                    <button class="bg-green-700 hover:bg-green-600 text-white foot-medium py-2 px-3 m-2 rounded">X-Large
+                        (24")</button>
+                    <h2 class="text-red-950 text-xs font-bold uppercase border-b-2 border-gray-100 mt-6">Price:</h2>
+                    <p class="">$25.99</p>
+                    <button
+                        class="bg-indigo-700 hover:bg-indigo-500 text-white foot-medium py-2 px-3 m-2 rounded-full">Add
+                        to Cart</button>
+
+                </section>
+            </div>
+        </main>
+
+        <footer>
+            <p class="text-center text-sm text-zinc-500">&copy; Dafne Gonzlaez &bull; DWDD 2620</p>
+        </footer>
+
+    </div>
+</body>
+
+</html>
